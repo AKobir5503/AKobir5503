@@ -27,11 +27,6 @@ I'm passionate about building real products that solve problems and ship fast. I
 
 ---
 
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKobir5503&show_icons=true&theme=radical" alt="Abdullah's GitHub Stats" />
-</p>
-
 ---
 
 ### Connect with me
